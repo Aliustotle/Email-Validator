@@ -63,12 +63,12 @@ h2{
         position: relative;
         font-size: 24px;
         color: #999;
-        font-weight: 70;
+        font-weight: 50;
         margin-bottom: 10px;
         text-align: center;
     }
         #form #email{
-            width: 200px;
+            width: 70vw;
             outline: none;
             background: transparent;
             border: navajowhite;
@@ -99,7 +99,7 @@ h2{
         text-align: center;
     }
         #form #email{
-            width: 300px;
+            width: 70vw;
             outline: none;
             background: transparent;
             border: navajowhite;
@@ -128,7 +128,7 @@ h2{
         text-align: center;
     }
         #form #email{
-            width: 400px;
+            width: 70vw;
             outline: none;
             background: transparent;
             border: navajowhite;
@@ -157,7 +157,7 @@ h2{
         text-align: center;
     }
         #form #email{
-            width: 400px;
+            width: 70vw;
             outline: none;
             background: transparent;
             border: navajowhite;
